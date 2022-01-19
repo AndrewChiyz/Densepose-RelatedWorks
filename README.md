@@ -1,5 +1,5 @@
-# Densepose-RelatedWorks
-Densepose Related Works
+# Densepose Related Works
+Summary of Densepose and Related Works: Papers, Projects, Applications and Githubs (Issues)
 
 ## Densepose Paper
 - [Original Paper] Güler, Rıza Alp, Natalia Neverova, and Iasonas Kokkinos. "**Densepose: Dense human pose estimation in the wild.**" In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 7297-7306. 2018. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Guler_DensePose_Dense_Human_CVPR_2018_paper.pdf)][[Project page](http://densepose.org/)][[Github](https://github.com/facebookresearch/DensePose)]
