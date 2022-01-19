@@ -10,12 +10,12 @@ Densepose Related Works
 - 
 
 ## Related Paper List
-- Zhu, Tyler, Per Karlsson, and Christoph Bregler. "Simpose: Effectively learning densepose and surface normals of people from simulated data." In European Conference on Computer Vision, pp. 225-242. Springer, Cham, 2020. [[Paper](SimPose: Effectively Learning DensePose and Surface Normals of People from Simulated Data)][[Code]]
+- Zhu, Tyler, Per Karlsson, and Christoph Bregler. "Simpose: Effectively learning densepose and surface normals of people from simulated data." In European Conference on Computer Vision, pp. 225-242. Springer, Cham, 2020. [[Paper](https://arxiv.org/abs/2007.15506)][[Code]]
 - 
 
 
-## Densepose Texture Atlas Discussion
+## Densepose Texture Atlas Discussion & Tools
 - [[Getting UV from XYZ #146](https://github.com/facebookresearch/DensePose/issues/146#issuecomment-464469641)]
 - [[Generating the unwrapped textures #68](https://github.com/facebookresearch/DensePose/issues/68)]
-- 
+- [[UVTextureConverter](https://github.com/kuboshizuma/UVTextureConverter)]: (Image, IUV) to Texture atlas, Texture Altas to Part-based Normalized Texture [(https://github.com/kuboshizuma/UVTextureConverter/blob/master/notebook/convert_texture_between_normal_and_altas.ipynb)]
 
