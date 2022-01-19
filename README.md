@@ -8,3 +8,14 @@ Densepose Related Works
 - [[Detection2 Densepose Model Zoo]( https://github.com/facebookresearch/detectron2/blob/main/projects/DensePose/doc/DENSEPOSE_IUV.md#ModelZoo)]
 - [[Model with the Best Performance in Model Zoo](https://github.com/facebookresearch/detectron2/blob/main/projects/DensePose/doc/DENSEPOSE_IUV.md#-improved-baselines-deeplabv3-head)]
 - 
+
+## Related Paper List
+- Zhu, Tyler, Per Karlsson, and Christoph Bregler. "Simpose: Effectively learning densepose and surface normals of people from simulated data." In European Conference on Computer Vision, pp. 225-242. Springer, Cham, 2020. [[Paper](SimPose: Effectively Learning DensePose and Surface Normals of People from Simulated Data)][[Code]]
+- 
+
+
+## Densepose Texture Atlas Discussion
+- [[Getting UV from XYZ #146](https://github.com/facebookresearch/DensePose/issues/146#issuecomment-464469641)]
+- [[Generating the unwrapped textures #68](https://github.com/facebookresearch/DensePose/issues/68)]
+- 
+
